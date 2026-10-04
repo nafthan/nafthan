@@ -12,12 +12,10 @@ My website is where I keep my notes, projects, and network tools essentially a p
 
 ### Interests
 
-* 🔐 Cybersecurity
+* 🔐 Cybersecurity & networking
 * 🌐 Networking
-* 🐧 Linux & command line
 * 🏠 Homelab & self-hosting
 * 🖥️ Systems & infrastructure
-* 🐳 Docker & containers
 
 ---
 
@@ -33,7 +31,5 @@ My website is where I keep my notes, projects, and network tools essentially a p
 ### A Bit About Me
 
 * 🏠 I enjoy building and tinkering with my own homelab
-* 🌐 Networking is one of my biggest interests
 * 🔐 I'm interested in understanding security rather than just using security tools
-* 🔧 I like figuring things out for myself and building things from scratch
 * 📚 Most of what I learn ends up documented somewhere
