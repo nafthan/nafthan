@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**nafthan/nafthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nathan, a cybersecurity and networking enthusiast based in the UK.
 
-Here are some ideas to get you started:
+I'm mainly interested in cybersecurity, networking, Linux, and understanding how systems work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use my GitHub to document things I'm learning, build small projects, and experiment with ideas in my homelab. I'm still learning, so a lot of what I build is about trying things out, breaking them, and figuring out why they stopped working.
+
+My website is where I keep my notes, projects, and network tools essentially a place to document the things I'm learning along the way.
+
+---
+
+### Interests
+
+* 🔐 Cybersecurity
+* 🌐 Networking
+* 🐧 Linux & command line
+* 🏠 Homelab & self-hosting
+* 🖥️ Systems & infrastructure
+* 🐳 Docker & containers
+
+---
+
+### What I'm Working On
+
+* 🔐 Learning more about cybersecurity
+* 🌐 Building and experimenting with network tools
+* 🏠 Developing my own homelab
+* 🛠️ Turning things I learn into small projects and notes
+
+---
+
+### A Bit About Me
+
+* 🏠 I enjoy building and tinkering with my own homelab
+* 🌐 Networking is one of my biggest interests
+* 🔐 I'm interested in understanding security rather than just using security tools
+* 🔧 I like figuring things out for myself and building things from scratch
+* 📚 Most of what I learn ends up documented somewhere
