@@ -11,6 +11,7 @@ I'm Nathan, a cybersecurity and networking enthusiast based in the UK.
 I'm mainly interested in cybersecurity, networking, Linux, and understanding how systems work behind the scenes.
 
 I use my GitHub to document things I'm learning, build small projects, and experiment with ideas in my homelab. I'm still learning, so a lot of what I build is about trying things out, breaking them, and figuring out why they stopped working.
+At the moment most if not all my repos are private while I make some changes and have a few things on hold. But will publicise at some point. 
 
 [My website](https://nafthan.co.uk) is where I keep my notes, projects, and network tools, essentially a place to document the things I'm learning along the way.
 
