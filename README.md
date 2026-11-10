@@ -9,7 +9,7 @@
 A cybersecurity and networking enthusiast based in the UK, interested in Linux, homelabs, and how systems work behind the scenes.
 
 
-I use GitHub to document what I'm learning and to build small projects along the way. Most of my repos are private for now while I make some changes and finish a few things on hold. I'll make them public at some point.
+I use GitHub to document what I'm learning and to build small projects along the way. Most of my repos are private for now while I make some changes and finish a few things on hold. I'll make them public at some point... probably.
 
 **Currently**
 - Learning more about security, with a focus on detection and incident response
