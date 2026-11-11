@@ -1,21 +1,16 @@
 <p align="center">
   <a href="https://nafthan.co.uk">
-    <img src="./assets/nafthan.gif" width="720" alt="NAFTHAN — a pencil-drawn flower turning slowly over a smoke background" />
+    <img src="./assets/banner (1).gif" width="386" alt="NAFTHAN" />
   </a>
 </p>
 
-### Hey, I'm Nathan 👋
+# 👋 Hi, I'm Nathan
 
-A cybersecurity and networking enthusiast based in the UK, interested in Linux, homelabs, and how systems work behind the scenes.
-
-
-I use GitHub to document what I'm learning and to build small projects along the way. Most of my repos are private for now while I make some changes and finish a few things on hold. I'll make them public at some point... probably.
-
-**Currently**
-- Learning more about security, with a focus on detection and incident response
-- Building and experimenting with network tools
-- Developing my homelab and self-hosting more of what I use
-- Turning what I learn into notes, cheat sheets and write-ups
+- 👀 I'm interested in **cybersecurity**, **networking**, **Linux** and **homelabs**.
+- 🌱 I'm currently learning **detection** and **incident response**.
+- 🛠️ I'm building **network tools** and self-hosting more of what I use.
+- 📝 I turn what I learn into **notes**, and **cheat sheets**.
+- 🔒 Most of my repos are private for now, but they'll go public at some point... probably.
 
 <p align="center">
   <a href="https://nafthan.co.uk">nafthan.co.uk</a> ·
