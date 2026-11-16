@@ -4,8 +4,6 @@
   </a>
 </p>
 
-# 👋 Hi, I'm Nathan
-
 - 👀 I'm interested in **cybersecurity**, **networking**, **Linux** and **homelabs**.
 - 🌱 I'm currently learning **detection** and **incident response**.
 - 🛠️ I'm building **network tools** and self-hosting more of what I use.
